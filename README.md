@@ -1,2 +1,2 @@
-# personal-diary-c
-A terminal-based personal diary program implemented in C. 
+# Chronicles
+A terminal-based notes and journaling program implemented in C. 
